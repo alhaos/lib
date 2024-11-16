@@ -1,6 +1,6 @@
 # alhaos library
 
-## [to watch](./toWatch/toWatch.md)
+## [to watch](toWatch.md)
 
-## [to read](./toWatch/toRead.md)
+## [to read](toRead.md)
 
